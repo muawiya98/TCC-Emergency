@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-11-28 10:32:47 by Eclipse SUMO GUI Version 1.14.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="Networks\environment\environment.net.xml"/>
+    </input>
+
+    <traci_server>
+        <remote-port value="55695"/>
+    </traci_server>
+
+    <gui_only>
+        <gui-settings-file value="Networks\environment\Custom_Veiw.xml"/>
+        <quit-on-end value="true"/>
+        <start value="true"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<snapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/state_file.xsd" version="1.14.1" time="1.00" type="micro">
+    <delay number="0" begin="0" end="0" depart="0.00" time="0.00"/>
+    <tlLogic id="J0" programID="0" phase="0" duration="1000"/>
+    <tlLogic id="J0" programID="10" phase="0" duration="1000"/>
+    <tlLogic id="J0" programID="2" phase="0" duration="1000"/>
+    <tlLogic id="J1" programID="0" phase="0" duration="1000"/>
+    <tlLogic id="J1" programID="10" phase="0" duration="1000"/>
+    <tlLogic id="J1" programID="2" phase="0" duration="1000"/>
+    <tlLogic id="J2" programID="0" phase="0" duration="1000"/>
+    <tlLogic id="J2" programID="10" phase="0" duration="1000"/>
+    <tlLogic id="J2" programID="2" phase="0" duration="1000"/>
+    <tlLogic id="J3" programID="0" phase="0" duration="1000"/>
+    <tlLogic id="J3" programID="10" phase="0" duration="1000"/>
+    <tlLogic id="J3" programID="2" phase="0" duration="1000"/>
+</snapshot>

@@ -1,0 +1,13 @@
+<configuration>
+    <input>
+        <net-file value="environment.net.xml"/>
+        <!--<route-files value="environment.rou.xml"/>-->
+        <!--<additional-files value="demo.add.xml"/>-->
+
+    </input>
+	<gui_only>
+        <gui-settings-file value="Custom_Veiw.xml"/>
+        <start value="true"/>
+        <quit-on-end value="true"/>
+    </gui_only>
+</configuration>
