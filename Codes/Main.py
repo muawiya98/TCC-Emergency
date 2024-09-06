@@ -15,7 +15,7 @@ class SUMO_ENV:
     def get_Options(self):
         opt_parser = optparse.OptionParser()
         opt_parser.add_option("--nogui", action="store_true",
-                            default=True, help="run the commandline version of sumo")
+                              default=False, help="run the commandline version of sumo")
         options, _ = opt_parser.parse_args()
         return options
     def Starting(self):
